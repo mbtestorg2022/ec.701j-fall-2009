@@ -11,18 +11,111 @@ Prior Year Projects
 
 The prior year's D-Lab: Development class (2008) worked on the following projects. Many of these projects have been worked on for several years, with incremental improvements and innovations by each year's class.
 
-| 2008 PROJECTS | DESCRIPTIONS |
-| --- | --- |
-| Bicilavadora | Pedal-powered washing machine |
-| Biodigester workshop | Community workshop on how to install a plastic bag biogas generator to produce methane for cooking and fertilizer for farming |
-| Ceramic water filters | Prototypical ceramic water filters using local clay and materials found near New Longoro, Gomboi and Dwere (Ghana) |
-| Charcoal technology demonstration | How to make charcoal out of agricultural waste using an oil drum and readily available starch |
-| Drip irrigation kits | Technology demonstration for the $2 drip irrigation kits from International Development Enterprises (IDE) |
-| Hand-held corn sheller | A practical, economical hand-held corn sheller to quickly and easily remove corn kernels from the ear |
-| Hand-powered walnut cracker | Adaptation of the Universal Nut Sheller from the Full Belly project to crack walnuts |
-| Low-cost bacterial water testing | Simple low-cost method for testing bacterial (fecal) contamination in community water sources |
-| Portable solar cooker | Portable solar parabolic concentrator designed with nomadic peoples of the high-altitude regions of central Tibet |
-| Rural energy usage database | Quantitative monitoring mechanism for the implementation of energy alternatives in the Himalayan region 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+2008 PROJECTS
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bicilavadora
+{{< tdclose >}}
+{{< tdopen >}}
+Pedal-powered washing machine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Biodigester workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Community workshop on how to install a plastic bag biogas generator to produce methane for cooking and fertilizer for farming
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ceramic water filters
+{{< tdclose >}}
+{{< tdopen >}}
+Prototypical ceramic water filters using local clay and materials found near New Longoro, Gomboi and Dwere (Ghana)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Charcoal technology demonstration
+{{< tdclose >}}
+{{< tdopen >}}
+How to make charcoal out of agricultural waste using an oil drum and readily available starch
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Drip irrigation kits
+{{< tdclose >}}
+{{< tdopen >}}
+Technology demonstration for the $2 drip irrigation kits from International Development Enterprises (IDE)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hand-held corn sheller
+{{< tdclose >}}
+{{< tdopen >}}
+A practical, economical hand-held corn sheller to quickly and easily remove corn kernels from the ear
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Hand-powered walnut cracker
+{{< tdclose >}}
+{{< tdopen >}}
+Adaptation of the Universal Nut Sheller from the Full Belly project to crack walnuts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Low-cost bacterial water testing
+{{< tdclose >}}
+{{< tdopen >}}
+Simple low-cost method for testing bacterial (fecal) contamination in community water sources
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portable solar cooker
+{{< tdclose >}}
+{{< tdopen >}}
+Portable solar parabolic concentrator designed with nomadic peoples of the high-altitude regions of central Tibet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rural energy usage database
+{{< tdclose >}}
+{{< tdopen >}}
+Quantitative monitoring mechanism for the implementation of energy alternatives in the Himalayan region
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Group Assignments
 -----------------
@@ -65,31 +158,261 @@ Though it is not required, if you have any experiments or prototypes to present,
 
 First of all, each team has 7 minutes to present, we will be strict about this time limit, so be sure you practice in advance and work out the timing. Second, we will be grading each presentation in the following way:
 
-| ASSIGNMENTS | PERCENTAGES |
-| --- | --- |
-| Context and background | 15% |
-| Description of projects | 30% |
-| Use of presentation aids (PPT, prototypes, pictures) | 15% |
-| Presentation style and quality | 20% |
-| Overall coordination of presentation | 10% |
-| Presentation completed within allotted time | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Context and background
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Description of projects
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Use of presentation aids (PPT, prototypes, pictures)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation style and quality
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Overall coordination of presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentation completed within allotted time
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "proj_work" >}}{{< /anchor >}}Student Project Work
 -------------------------------------------------------------
 
 The following files are presented courtesy of the students and used with permission.
 
-| TEAMS | TEAM PRESENTATIONS (LEC 32) | JAN. 2010 FIELD TRIP: PROJECTS, PHOTOS, REPORTS |
-| --- | --- | --- |
-| China | ([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_china)) |  {{< br >}}{{< br >}} Design workshop {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/sets/72157623185979269/) {{< br >}}{{< br >}}  |
-| Ecuador | ([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_ecuador)) |  {{< br >}}{{< br >}} Drip irrigation, rainwater catchment, hydroponics, artisan project, IIH MEDIK, Scratch {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/collections/72157623306994040/) {{< br >}}{{< br >}}  |
-| Ghana | ([PDF - 1.3 MB]({{< baseurl >}}/resources/mitec_701jf09_proj_ghana)) |  {{< br >}}{{< br >}} Shea nut oil press, clay collection, well drilling {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/collections/72157623182404311/) {{< br >}}{{< br >}}  |
-| India: Kolkata | ([PDF - 1.9MB]({{< baseurl >}}/resources/mitec_701jf09_proj_india_k)) |  {{< br >}}{{< br >}} Pedal-powered cell phone charger, charcoal from water hyacinth, drip irrigation, NGO evaluations, rickshaw bank, SEED education workshop, water testing {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/collections/72157623197756941/) {{< br >}}{{< br >}}  |
-| India: Ranikhet & Avani | ([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_india_ra)) |  {{< br >}}{{< br >}} Charcoal and stove, sanitation and hygiene, first aid lesson, solar dryer, solar latern {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/collections/72157623182407189/) {{< br >}}{{< br >}}  |
-| Peru | ([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_peru)) |  {{< br >}}{{< br >}} Cookstoves, latrines {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/collections/72157623182423221/) {{< br >}}{{< br >}}  |
-| Rwanda | ([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_rwanda)) |  {{< br >}}{{< br >}} Charcoal {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/sets/72157623308373144/with/4313678109/) {{< br >}}{{< br >}}  |
-| Tanzania | ([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_tz)) |  {{< br >}}{{< br >}} Water harvesting, secondary school workshop {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/collections/72157623196719877/) {{< br >}}{{< br >}}  |
-| Zambia | ([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_zambia)) |  {{< br >}}{{< br >}} Corn shelling, charcoal making, Disacare wheelchair workshop, IDE drip irrigation, Peace Corps workshop {{< br >}}{{< br >}} [Photos](http://www.flickr.com/photos/d-lab/sets/72157623231313441/) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEAMS
+{{< thclose >}}
+{{< thopen >}}
+TEAM PRESENTATIONS (LEC 32)
+{{< thclose >}}
+{{< thopen >}}
+JAN. 2010 FIELD TRIP: PROJECTS, PHOTOS, REPORTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+China
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_china))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design workshop
+
+[Photos](http://www.flickr.com/photos/d-lab/sets/72157623185979269/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ecuador
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_ecuador))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Drip irrigation, rainwater catchment, hydroponics, artisan project, IIH MEDIK, Scratch
+
+[Photos](http://www.flickr.com/photos/d-lab/collections/72157623306994040/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ghana
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.3 MB]({{< baseurl >}}/resources/mitec_701jf09_proj_ghana))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shea nut oil press, clay collection, well drilling
+
+[Photos](http://www.flickr.com/photos/d-lab/collections/72157623182404311/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+India: Kolkata
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.9MB]({{< baseurl >}}/resources/mitec_701jf09_proj_india_k))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Pedal-powered cell phone charger, charcoal from water hyacinth, drip irrigation, NGO evaluations, rickshaw bank, SEED education workshop, water testing
+
+[Photos](http://www.flickr.com/photos/d-lab/collections/72157623197756941/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+India: Ranikhet & Avani
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_india_ra))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Charcoal and stove, sanitation and hygiene, first aid lesson, solar dryer, solar latern
+
+[Photos](http://www.flickr.com/photos/d-lab/collections/72157623182407189/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Peru
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_peru))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cookstoves, latrines
+
+[Photos](http://www.flickr.com/photos/d-lab/collections/72157623182423221/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rwanda
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_rwanda))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Charcoal
+
+[Photos](http://www.flickr.com/photos/d-lab/sets/72157623308373144/with/4313678109/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tanzania
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_tz))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Water harvesting, secondary school workshop
+
+[Photos](http://www.flickr.com/photos/d-lab/collections/72157623196719877/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Zambia
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mitec_701jf09_proj_zambia))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Corn shelling, charcoal making, Disacare wheelchair workshop, IDE drip irrigation, Peace Corps workshop
+
+[Photos](http://www.flickr.com/photos/d-lab/sets/72157623231313441/)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [  
 ](http://www.flickr.com/photos/d-lab/archives/date-taken/2009/01/calendar/)

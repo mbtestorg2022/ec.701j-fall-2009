@@ -54,14 +54,75 @@ Grading
 
 This is a twelve-unit class: four hours and a half each week will be spent in class, two hours per week will be spent in project team meetings and the remaining five hours will be spent working on readings, homework, and developing the field projects. Because much of the work for this class will be done during class time, attendance is essential. Students missing a class meeting should contact the TAs to make up the work. No more than two unexcused absences are allowed. This class is graded on an A/B/C/F basis; furthermore, it is a class where your work is impacting the lives of people around the world and we expect an appropriate level of commitment.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Project work and class participation | 20% |
-| Homework assignments | 30% |
-| Sector paper | 15% |
-| Quiz 1 | 10% |
-| Quiz 2 | 10% |
-| Presentations and final report | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project work and class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework assignments
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sector paper
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Presentations and final report
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Schedule
 --------
@@ -72,51 +133,1031 @@ Session Key (SES)
 
 F# = Evening film screening
 
-| SES # | CLASS TOPICS | LABS AND ACTIVITIES | KEY DATES |
-| --- | --- | --- | --- |
-| START | DUE |
-| --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} D-Lab philosophy of development {{< br >}}{{< br >}} Stakeholder analysis and participation {{< br >}}{{< br >}}  | Development role play |  {{< br >}}{{< br >}} Homework 1 {{< br >}}{{< br >}} Homework 2 {{< br >}}{{< br >}}  | &nbsp; |
-| 3 | History of development: (1950-1970): The colonial legacy | &nbsp; | Homework 3 | Homework 1 |
-| F1 | Evening film screening: _Life and Debt_ | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} History of development: (1970-1990) {{< br >}}{{< br >}} Appropriate Technology {{< br >}}{{< br >}} Intermediate Technology {{< br >}}{{< br >}}  | &nbsp; | Homework 3 |
-| 5 |  {{< br >}}{{< br >}} History of development: (1990-present) {{< br >}}{{< br >}} UN Millennium Development Goals {{< br >}}{{< br >}} Participatory development {{< br >}}{{< br >}} Co-creation {{< br >}}{{< br >}} _Guest Speaker_: Mitch Resnick (MIT Media Lab) {{< br >}}{{< br >}}  | &nbsp; | Homework 2 |
-| 6 |  {{< br >}}{{< br >}} Entrepreneurship, government, and development in Africa {{< br >}}{{< br >}} _Guest Speaker_: John Kufuor, (former president of Ghana) {{< br >}}{{< br >}}  | &nbsp; | Homework 4 | &nbsp; |
-| 7 | Agriculture | Agricultural technology showcase: Post-harvest processing | &nbsp; |
-| 8 | Projects and partners | &nbsp; | Homework 5 |  {{< br >}}{{< br >}} Homework 4 {{< br >}}{{< br >}} Homework 5 (1 day later) {{< br >}}{{< br >}}  |
-| 9 | More projects and partners | Agricultural technology showcase: Drip irrigation | &nbsp; |
-| F2 | Evening film screening: _Peanuts_ | &nbsp; |
-| 10 | Country team meetings | &nbsp; |  {{< br >}}{{< br >}} Homework 6 {{< br >}}{{< br >}} Homework 7 {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Agricultural focus groups: {{< br >}}{{< br >}} \- Green Revolution  {{< br >}}\- Agriculture and External Aid  {{< br >}}\- Agriculture and Human Rights {{< br >}}{{< br >}}  | &nbsp; | Project 1 | &nbsp; |
-| 12 | Energy: Biomass, biogas and biodiesel | Energy lab: Charcoal |  {{< br >}}{{< br >}} Project 2 {{< br >}}{{< br >}} Project 3 {{< br >}}{{< br >}}  | Homework 7 |
-| 13 |  {{< br >}}{{< br >}} Energy: Sun {{< br >}}{{< br >}} _Guest Speaker_: Jim Bales (MIT Edgerton Center) {{< br >}}{{< br >}}  | Energy labs: Photovoltaics, LED lighting | Homework 8 | &nbsp; |
-| 14 | Energy: Human power | Energy lab: Human power production | Homework 9 |  {{< br >}}{{< br >}} Homework 6 {{< br >}}{{< br >}} Homework 8 {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} Energy: Wind and water {{< br >}}{{< br >}} _Guest Speakers_: Shawn Frayne (Humdinger Wind), Peter Haas (AIDG) {{< br >}}{{< br >}}  | &nbsp; | Homework 10 | &nbsp; |
-| 16 | Modeling energy systems |  {{< br >}}{{< br >}} Village energy assessment {{< br >}}{{< br >}} [HOMER](http://homerenergy.com/) (Bring laptops to class) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Quiz 1 {{< br >}}{{< br >}} Project 4 {{< br >}}{{< br >}}  | &nbsp; |
-| 17 | Water quality | Water lab 1: Bacterial testing |  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Project 1 {{< br >}}{{< br >}} Project 2 {{< br >}}{{< br >}} Project 3 {{< br >}}{{< br >}} Homework 9 {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Water Issues in the developing world {{< br >}}{{< br >}} _Guest Speaker_: Susan Murcott {{< br >}}{{< br >}}  | &nbsp; |
-| F3 | Evening film screening: _For Love of Water_ | &nbsp; |
-| 19 |  {{< br >}}{{< br >}} Harnessing the wind {{< br >}}{{< br >}} _Guest Speaker_: William Kamkwamba {{< br >}}{{< br >}}  | &nbsp; | Project 5 | Quiz 1 |
-| 20 | Water quality (cont.) | Water lab 2: Chemical testing | Project 6 | Homework 10 |
-| 21 |  {{< br >}}{{< br >}} Institutions of development: World Bank and IMF {{< br >}}{{< br >}} _Guest Speaker_: Rachel Glennerster {{< br >}}{{< br >}}  | &nbsp; | Homework 11 | Project 4 |
-| 22 |  {{< br >}}{{< br >}} Institutions of development {{< br >}}{{< br >}} Role of NGOs in development {{< br >}}{{< br >}}  | &nbsp; | Homework 12 | Homework 11 |
-| 23 | Microfinance | &nbsp; | Homework 13 | Project 5 |
-| 24 |  {{< br >}}{{< br >}} Micro-enterprise case study: Grameen Phone {{< br >}}{{< br >}} _Guest Speaker_: Iqbal Quadiir {{< br >}}{{< br >}}  | &nbsp; | Quiz 2 | &nbsp; |
-| F4 | Evening film screening: _Drowned Out_ | &nbsp; |
-| 25 |  {{< br >}}{{< br >}} Discussion of Drowned Out {{< br >}}{{< br >}} _Guest Speaker_: Balakrishnan Rajagopal {{< br >}}{{< br >}}  | &nbsp; | Homework 12 |
-| 26 | ICT4D | &nbsp; |
-| 27 |  {{< br >}}{{< br >}} ICT4C {{< br >}}{{< br >}} _Guest Speaker_: Mitch Resnick {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} [SCRATCH](http://scratch.mit.edu/) (Bring laptops to class) {{< br >}}{{< br >}}  | Homework 14 | Quiz 2 |
-| 28 |  {{< br >}}{{< br >}} Creative capacity building {{< br >}}{{< br >}} Concrete {{< br >}}{{< br >}}  | Concrete lab |  {{< br >}}{{< br >}} Homework 15 {{< br >}}{{< br >}} Project 7 {{< br >}}{{< br >}}  | &nbsp; |
-| 29 | Cooking | Cooking lab | &nbsp; |  {{< br >}}{{< br >}} Homework 13 outline {{< br >}}{{< br >}} Homework 15 {{< br >}}{{< br >}}  |
-| F5 | Evening film screening: _Living with AIDS_ | &nbsp; |
-| 30 | The AIDS/HIV Crisis | &nbsp; | Homework 14 |
-| 31 |  {{< br >}}{{< br >}} Health issues in the developing world {{< br >}}{{< br >}} _Guest Speaker_: Jose Gomez-Marquez {{< br >}}{{< br >}}  | &nbsp; | Project 8 | &nbsp; |
-| 32 | Team Presentations | &nbsp; | Project 7 |
-| 33 |  {{< br >}}{{< br >}} Valuing Indigenous knowledge {{< br >}}{{< br >}} Cultural taboos {{< br >}}{{< br >}} Cultural implications of development {{< br >}}{{< br >}}  | &nbsp; |
-| 34 |  {{< br >}}{{< br >}} Market approaches to development {{< br >}}{{< br >}} Supply chains {{< br >}}{{< br >}} _Guest speaker_: Paul Polak, IDE {{< br >}}{{< br >}}  | Water role play | Homework 17 | &nbsp; |
-| 35 |  {{< br >}}{{< br >}} What works: Lessons from JPAL {{< br >}}{{< br >}} _Guest Speakers_: Kamilla Gumede (Jameel Poverty Action Lab) {{< br >}}{{< br >}}  | &nbsp; | Homework 13 paper |
-| 36 |  {{< br >}}{{< br >}} Climate change {{< br >}}{{< br >}} Sustainability {{< br >}}{{< br >}} _Guest Speaker_: Ben Linder {{< br >}}{{< br >}}  | &nbsp; |
-| 37 | Panel discussion with [Special Program for Urban and Regional Studies (SPURS)](http://web.mit.edu/spurs/www/) fellows | &nbsp; |
-| 38 | Evaluations | &nbsp; |
-| 39 | Final posters and presentations | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+CLASS TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LABS AND ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+START
+{{< thclose >}}
+{{< thopen >}}
+DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+D-Lab philosophy of development
+
+Stakeholder analysis and participation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Development role play
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1
+
+Homework 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+History of development: (1950-1970): The colonial legacy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F1
+{{< tdclose >}}
+{{< tdopen >}}
+Evening film screening: _Life and Debt_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+History of development: (1970-1990)
+
+Appropriate Technology
+
+Intermediate Technology
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+History of development: (1990-present)
+
+UN Millennium Development Goals
+
+Participatory development
+
+Co-creation
+
+_Guest Speaker_: Mitch Resnick (MIT Media Lab)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Entrepreneurship, government, and development in Africa
+
+_Guest Speaker_: John Kufuor, (former president of Ghana)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Agriculture
+{{< tdclose >}}
+{{< tdopen >}}
+Agricultural technology showcase: Post-harvest processing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Projects and partners
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 4
+
+Homework 5 (1 day later)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+More projects and partners
+{{< tdclose >}}
+{{< tdopen >}}
+Agricultural technology showcase: Drip irrigation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F2
+{{< tdclose >}}
+{{< tdopen >}}
+Evening film screening: _Peanuts_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Country team meetings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 6
+
+Homework 7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Agricultural focus groups:
+
+\- Green Revolution  
+\- Agriculture and External Aid  
+\- Agriculture and Human Rights
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Energy: Biomass, biogas and biodiesel
+{{< tdclose >}}
+{{< tdopen >}}
+Energy lab: Charcoal
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 2
+
+Project 3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Energy: Sun
+
+_Guest Speaker_: Jim Bales (MIT Edgerton Center)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Energy labs: Photovoltaics, LED lighting
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Energy: Human power
+{{< tdclose >}}
+{{< tdopen >}}
+Energy lab: Human power production
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 6
+
+Homework 8
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Energy: Wind and water
+
+_Guest Speakers_: Shawn Frayne (Humdinger Wind), Peter Haas (AIDG)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling energy systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Village energy assessment
+
+[HOMER](http://homerenergy.com/) (Bring laptops to class)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quiz 1
+
+Project 4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Water quality
+{{< tdclose >}}
+{{< tdopen >}}
+Water lab 1: Bacterial testing
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Project 1
+
+Project 2
+
+Project 3
+
+Homework 9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Water Issues in the developing world
+
+_Guest Speaker_: Susan Murcott
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F3
+{{< tdclose >}}
+{{< tdopen >}}
+Evening film screening: _For Love of Water_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Harnessing the wind
+
+_Guest Speaker_: William Kamkwamba
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project 5
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Water quality (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Water lab 2: Chemical testing
+{{< tdclose >}}
+{{< tdopen >}}
+Project 6
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Institutions of development: World Bank and IMF
+
+_Guest Speaker_: Rachel Glennerster
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 11
+{{< tdclose >}}
+{{< tdopen >}}
+Project 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Institutions of development
+
+Role of NGOs in development
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 12
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Microfinance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 13
+{{< tdclose >}}
+{{< tdopen >}}
+Project 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Micro-enterprise case study: Grameen Phone
+
+_Guest Speaker_: Iqbal Quadiir
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F4
+{{< tdclose >}}
+{{< tdopen >}}
+Evening film screening: _Drowned Out_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Drowned Out
+
+_Guest Speaker_: Balakrishnan Rajagopal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+ICT4D
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ICT4C
+
+_Guest Speaker_: Mitch Resnick
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[SCRATCH](http://scratch.mit.edu/) (Bring laptops to class)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 14
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Creative capacity building
+
+Concrete
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Concrete lab
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 15
+
+Project 7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Cooking
+{{< tdclose >}}
+{{< tdopen >}}
+Cooking lab
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 13 outline
+
+Homework 15
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F5
+{{< tdclose >}}
+{{< tdopen >}}
+Evening film screening: _Living with AIDS_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+The AIDS/HIV Crisis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Health issues in the developing world
+
+_Guest Speaker_: Jose Gomez-Marquez
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project 8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Team Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Project 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Valuing Indigenous knowledge
+
+Cultural taboos
+
+Cultural implications of development
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Market approaches to development
+
+Supply chains
+
+_Guest speaker_: Paul Polak, IDE
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Water role play
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 17
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What works: Lessons from JPAL
+
+_Guest Speakers_: Kamilla Gumede (Jameel Poverty Action Lab)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 13 paper
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate change
+
+Sustainability
+
+_Guest Speaker_: Ben Linder
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Panel discussion with [Special Program for Urban and Regional Studies (SPURS)](http://web.mit.edu/spurs/www/) fellows
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Final posters and presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
