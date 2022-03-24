@@ -122,7 +122,7 @@ _Guest speaker_: Mitch Resnick (MIT Media Lab)
 {{< tdopen >}}
 
 
-Chambers, R. "Poverty and Livelihoods: Whose Reality Counts?" _Environment and Urbanization_ 7, no. 1 (1995): 173-204. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ucl.ac.uk/dpu-projects/drivers_urb_change/urb_society/pdf_liveli_vulnera/IIED_Chambers_poverty.pdf))
+Chambers, R. "Poverty and Livelihoods: Whose Reality Counts?" _Environment and Urbanization_ 7, no. 1 (1995): 173-204. ([PDF](http://www.ucl.ac.uk/dpu-projects/drivers_urb_change/urb_society/pdf_liveli_vulnera/IIED_Chambers_poverty.pdf))
 
 [United Nations Millennium Declaration](https://www.ohchr.org/EN/ProfessionalInterest/Pages/Millennium.aspx) \[AKA "millennium development goals"\]. September 8, 2000.
 
@@ -266,7 +266,7 @@ Hampwaye G., E. Nel, et al. "[Urban Agriculture as a Local Initiative in Lusaka,
 
 Baffoe, J. K. "Structural Adjustment and Agriculture in Uganda." International Labour Organization, Working Paper WP.149, March 2000.
 
-Structural Adjustment Participatory Review International Network (SAPRIN). "Impact of Agricultural Sector Adjustment Policies on Small Farmers and Food Security." Chapter 6 in _The Policy Roots of Economic Crisis and Poverty: A Multi-Country Participatory Assessment of Structural Adjustment_. April, 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.saprin.org/SAPRIN_Findings.pdf))
+Structural Adjustment Participatory Review International Network (SAPRIN). "Impact of Agricultural Sector Adjustment Policies on Small Farmers and Food Security." Chapter 6 in _The Policy Roots of Economic Crisis and Poverty: A Multi-Country Participatory Assessment of Structural Adjustment_. April, 2002. ([PDF](http://www.saprin.org/SAPRIN_Findings.pdf))
 
 
 {{< tdclose >}}
@@ -374,7 +374,7 @@ Village energy assessment
 
 {{< tdclose >}}
 {{< tdopen >}}
-NREL. _Getting started Guide for HOMER Version 2.1._ April 2005. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)([PDF](https://pire.soe.ucsc.edu/sites/default/files/HOMERGettingStarted210_0.pdf))
+NREL. _Getting started Guide for HOMER Version 2.1._ April 2005. ([PDF](https://pire.soe.ucsc.edu/sites/default/files/HOMERGettingStarted210_0.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -500,7 +500,7 @@ Microfinance
 
 Jain, P. S. "[Managing Credit for the Rural Poor: Lessons from the Grameen Bank](http://dx.doi.org/10.1016/0305-750X(95)00116-T)." _World Development_ 24, no. 1 (1996): 79-89.
 
-Hammond, A., and C. K. Prahalad. "What Works: Serving the World's Poor, Profitably." World Resources Institute, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pdf.wri.org/whatworks_serving_profitably.pdf))
+Hammond, A., and C. K. Prahalad. "What Works: Serving the World's Poor, Profitably." World Resources Institute, 2004. ([PDF](http://pdf.wri.org/whatworks_serving_profitably.pdf))
 
 
 {{< tdclose >}}
@@ -586,7 +586,7 @@ _Guest speaker_: Mitch Resnick
 {{< tdopen >}}
 
 
-Resnick, M. "Sowing the Seeds for a More Creative Society." _Learning and Leading with Technology_ (2007): 18-22. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.media.mit.edu/~mres/papers/Learning-Leading-final.pdf))
+Resnick, M. "Sowing the Seeds for a More Creative Society." _Learning and Leading with Technology_ (2007): 18-22. ([PDF](http://web.media.mit.edu/~mres/papers/Learning-Leading-final.pdf))
 
 Optional: [Video](https://www.youtube.com/watch?v=oXPKvoPYW_8) of talk at Google, October 26, 2006 (54 min)
 
@@ -634,7 +634,7 @@ The AIDS/HIV crisis
 {{< tdopen >}}
 
 
-UNAIDS. "Executive Summary." In [_Report on the global AIDS epidemic_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.1MB)](http://data.unaids.org/pub/GlobalReport/2008/jc1511_gr08_executivesummary_en.pdf) 2008.
+UNAIDS. "Executive Summary." In [_Report on the global AIDS epidemic_. (PDF - 2.1MB)](http://data.unaids.org/pub/GlobalReport/2008/jc1511_gr08_executivesummary_en.pdf) 2008.
 
 Film: [_Living with AIDS (On the Frontlines of AIDS)_](http://www.insightnewstv.com/aids/) (2005)
 
@@ -712,7 +712,7 @@ _Guest speaker:_ Paul Polak, IDE
 
 Polak, P. "The Three Great Poverty Eradication Myths." Chapter 2 in _Out of Poverty_. Berrett-Koehler Publishers, 2008, pp. 27-48. ISBN: 9781576754498. \[Preview with [Google Books](http://books.google.com/books?id=Hd0TYcBRPkgC&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
 
-Edwards, M. _Just Another Emperor_. 2008. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.5MB](https://www.futurepositive.org/edwards_WEB.pdf))
+Edwards, M. _Just Another Emperor_. 2008. ([PDF - 1.5MB](https://www.futurepositive.org/edwards_WEB.pdf))
 
 
 {{< tdclose >}}
@@ -734,7 +734,7 @@ _Guest speakers_: Kamilla Gumede (Jameel Poverty Action Lab)
 {{< tdopen >}}
 
 
-Duflo, E., M. Greenstone, et al. "Cooking Stoves, Indoor Air Pollution and Respiratory Health in Rural Orissa." _Economic & Political Weekly_ 43, no. 32 (2008): 71-6. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/ceepr/www/publications/reprints/Reprint_205_WC.pdf))
+Duflo, E., M. Greenstone, et al. "Cooking Stoves, Indoor Air Pollution and Respiratory Health in Rural Orissa." _Economic & Political Weekly_ 43, no. 32 (2008): 71-6. ([PDF](http://web.mit.edu/ceepr/www/publications/reprints/Reprint_205_WC.pdf))
 
 Kremer, M., E. Miguel, et al. "[Water Technologies: What Works Best in Poor Countries?](http://bostonreview.net/world/water-technologies)" _Boston Review_, September/October 2008.
 

@@ -385,7 +385,7 @@ Energy lab: human power production
 
 Energy: Wind and water
 
-_Guest speakers_: Shawn Frayne (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Humdinger Wind Energy](https://www.bloomberg.com/profile/company/0149409D:US)), Peter Haas ([Appropriate Infrastructure Development Group](http://www.policyinnovations.org/innovators/organizations/data/00975))
+_Guest speakers_: Shawn Frayne ([Humdinger Wind Energy](https://www.bloomberg.com/profile/company/0149409D:US)), Peter Haas ([Appropriate Infrastructure Development Group](http://www.policyinnovations.org/innovators/organizations/data/00975))
 
 
 {{< tdclose >}}
