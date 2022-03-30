@@ -4,6 +4,7 @@ description: This resource contains the information regarding D-Lab philosophy, 
   analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-701j-d-lab-i-development-fall-2009/66ddec953669b82e7be6de608d7751c6_MITEC_701JF09_lec02.pdf
 file_type: application/pdf
+parent_uid: bfc4142b-703b-6e39-38b0-36308da800ae
 resourcetype: Document
 title: 'Lecture 2 slides: D-Lab philosophy, stakeholder analysis'
 uid: 66ddec95-3669-b82e-7be6-de608d7751c6
